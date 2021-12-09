@@ -1,3 +1,4 @@
+
 body{
   font-family: sans-serif;
   font-size:110%;
@@ -7,6 +8,8 @@ body{
 header {
   background-color: chocolate;
   text-align: center;
+
+  
 }
 
 footer {
