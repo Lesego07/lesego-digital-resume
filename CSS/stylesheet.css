@@ -6,10 +6,26 @@ body{
 }
 
 header {
+
   background-color: chocolate;
   text-align: center;
-
+  font-size: larger;
   
+}
+
+#title{
+
+  font-size: 150%;
+}
+
+#introduction{
+
+  font-size: 120%;
+}
+
+#sidebar{
+ background-color: #343330;
+
 }
 
 footer {
