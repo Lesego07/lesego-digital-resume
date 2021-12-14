@@ -10,9 +10,16 @@ header {
   background-color: chocolate;
   text-align: center;
   font-size: larger;
-  
-}
 
+}
+ 
+#headshot{
+  width: 20%;
+
+  height: 15%;
+  border: #343330 solid;
+  border-radius: 30%;
+}
 #title{
 
   font-size: 150%;
@@ -23,7 +30,13 @@ header {
   font-size: 120%;
 }
 
+.main{
+  display: flex;
+  border: thick blueviolet;
+}
+
 #sidebar{
+  width: max-content;
  background-color: #343330;
 
 }
@@ -32,4 +45,5 @@ footer {
   background-color: #343330;
   text-align: center;
   color: white;
+  margin: 2%;
 }
